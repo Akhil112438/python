@@ -1,12 +1,17 @@
+#numbers
 a=10
 print(type(a))
+
+#float
 b=10.5
 print(type(b))
 c=12/3
 print(type(c))  
 
+#complex
 v=34j
-print(type(v))\
+print(type(v))
 
+#string
 st="1234"
 print(type(st))
