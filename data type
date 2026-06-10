@@ -1,0 +1,12 @@
+a=10
+print(type(a))
+b=10.5
+print(type(b))
+c=12/3
+print(type(c))  
+
+v=34j
+print(type(v))\
+
+st="1234"
+print(type(st))
